@@ -48,7 +48,7 @@ under the License.
         <!-- Called as second invoker goal to simulate file adjustment -->
         <groupId>org.codehaus.gmaven</groupId>
         <artifactId>gmaven-plugin</artifactId>
-        <version>1.4</version>
+        <version>1.5</version>
         <configuration>
           <source>
             def beanAFile = new File( project.basedir, 'src/main/java/BeanA.java' )
